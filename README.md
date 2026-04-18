@@ -1,0 +1,2 @@
+# Enhancing-Knee-Osteoarthritis-Diagnosis-with-AI-A-Deep-Learning-Perspective
+Implemented Depthwise Separable Convolutions. Integrated Squeeze-and-Excitation (SE) blocks (Channel-wise Attention Mechanism) and Residual Skip Connections. Utilized a Hybrid Global Pooling strategy. Finally achieved a peak validation accuracy of 90.53% in classifying knee radiographs into three categories: Normal, Osteopenia, and Osteoporosis.
